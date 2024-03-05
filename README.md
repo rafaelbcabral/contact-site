@@ -1,7 +1,7 @@
 <h1 align="center">
 <p><b>Página de Contato 📱<b></p>
 
-<img src="img/contact.jpg" width= 500px lenght= 500px align="center">
+<img src="img/contact.jpg" align="center">
 <br>
 </h1>
 
