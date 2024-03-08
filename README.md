@@ -7,7 +7,7 @@
 
 
 <a href="https://site-contacct.netlify.app/" style="text-decoration: none; color: red;">
-<h2 style="text-align: center; margin: 0;">✈️ Para explorar o site, clique aqui!</h2>
+✈️ Para explorar o site, clique aqui!</h2>
 </a>
 
 
